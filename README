@@ -1,0 +1,4 @@
+to use:
+npm install
+npm install -g hem
+hem server 
